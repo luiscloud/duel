@@ -1,9 +1,13 @@
 # duel
 
+
 This is a 2D AI game.
 
+
 Controls:
+
 Jump - Space
+
 Enter - Shoot
 
 To play:
